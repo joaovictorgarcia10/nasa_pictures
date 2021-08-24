@@ -9,6 +9,16 @@ Baseado nisso, o projeto implementa 2 features:
 1. Lista algumas imagens da API;
 2. Exibe uma imagem filtrando pela data em que a mesma foi postada;
 
+
+## Conceitos Aplicados
+
+- Clean Architecture  
+- Testes Unitários (TDD)
+- Gerência de Estado (Bloc)
+- Acesso a API (Dio)
+- Flutter Modular
+
+
 ## Packages Utilizados
 
 - flutter_modular  
