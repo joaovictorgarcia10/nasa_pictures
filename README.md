@@ -25,5 +25,6 @@ Baseado nisso, o projeto implementa 2 features:
 <p float="left"> 
  <img src="https://github.com/victorgarcia10/nasa_pictures/blob/main/github_images/Screenshot_1629804208.png" width="315" height="550"/>
  <img src="https://github.com/victorgarcia10/nasa_pictures/blob/main/github_images/Screenshot_1629804213.png" width="315" height="550"/>
+ <img src="https://github.com/victorgarcia10/nasa_pictures/blob/main/github_images/Screenshot_1629804432.png" width="315" height="550"/>
  <img src="https://github.com/victorgarcia10/nasa_pictures/blob/main/github_images/Screenshot_1629804231.png" width="315" height="550"/>
 </p>
