@@ -1,6 +1,6 @@
 # Nasa Pictures
 
-Projeto criado com o intuito de por em prática os conceitos de Clean Architecture e TDD no Flutter.
+Projeto criado com o intuito de pôr em prática os conceitos de Clean Architecture e TDD no Flutter.
 
 Para consolidar o aplicativo, foi utilizada a API Nasa Pictures, que todos os dias publica uma imagem típica da Nasa.
 
